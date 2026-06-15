@@ -594,7 +594,7 @@ router.post(
 ### 4.3 Repositório
 
 > **Link do repositório GitHub:**  
-> `https://github.com/SEU_USUARIO/sghss-backend`  
+> `https://github.com/GustavoMaiaOliveira/trabalho-back-uninter`  
 >
 > *(Substituir pelo endereço real após publicar no GitHub)*
 
