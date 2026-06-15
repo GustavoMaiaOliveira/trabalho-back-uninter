@@ -596,11 +596,10 @@ router.post(
 > **Link do repositório GitHub:**  
 > `https://github.com/GustavoMaiaOliveira/trabalho-back-uninter`  
 >
-> *(Substituir pelo endereço real após publicar no GitHub)*
 
 **Instruções para executar:**
 ```bash
-git clone https://github.com/SEU_USUARIO/sghss-backend
+git clone https://github.com/GustavoMaiaOliveira/trabalho-back-uninter
 cd sghss-backend
 npm install
 cp .env.example .env
