@@ -7,7 +7,7 @@
 **Disciplina:** Projeto Multidisciplinar  
 **Aluno:** Gustavo Maia Oliveira  
 **RU:** 4750296  
-**Semestre:** 1º/2025  
+**Semestre:** 3º/2026  
 **Professor:** Prof. Winston Sen Lun Fung, Me.  
 **Ênfase:** Back-end  
 
